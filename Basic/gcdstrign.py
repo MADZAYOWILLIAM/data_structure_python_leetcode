@@ -43,5 +43,6 @@ class GCDString:
 
 
 # Example usage:gcd_string_finder = GCDString()
-GCDString().gcd_of_strings("ABABAB", "ABAB")
+GCDString().gcd_of_strings("ABCABCABC", "ABC")
 # Output: "AB"
+
