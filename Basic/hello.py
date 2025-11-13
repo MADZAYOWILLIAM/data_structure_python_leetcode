@@ -15,6 +15,10 @@ class Solution:
             merged_output.append(second_word[min_len_word:])
 
         return ''.join(merged_output)
+    
+
+
+Solution().mergeAlternately("abc","pqrstu")
 
         
 
